@@ -2,12 +2,12 @@ public class Mainformulir {
     public static void main(String[] args) {
 
         System.out.println();
-        Formulirmahasiswa formulir01 = new Formulirmahasiswa();
+        Formulircust formulir01 = new Formulircust();
         formulir01.Carabayar();
         formulir01.Tatatertib();
 
         System.out.println();
-        Formulirdosen formulir02 = new Formulirdosen();
+        Formulirmember formulir02 = new Formulirmember();
         formulir02.Carabayar();
         formulir02.Tatatertib();
 
